@@ -5,7 +5,7 @@ in alpha: [a new variant of the adversary bound - quantum query algorithm dualit
 
 maybe in progress: applications of that duality (with [Alexander Belov](http://home.lu.lv/~belovs/)), ETA???
 - 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ... a data structure that improves upon PDF-from-LaTeX in capturing mathematical writing - mock-up and more details on request.
-
-Or, maybe, whatever interests you!
-- 📫 How to reach me ... Drop me a line in the live chat on my [blog](https://qudent.github.io), write to fi1w+qudent@outlook.com.
+- 💞️ I’m looking to collaborate on ...
+    - a data structure that improves upon PDF-from-LaTeX in capturing mathematical writing - mock-up and more details on request.
+    - Or, maybe, whatever interests you!
+- 📫 How to reach me ... The live chat on my [blog](https://qudent.github.io), fi1w+qudent@outlook.com.
