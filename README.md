@@ -11,4 +11,4 @@
 - 📫 How to reach me ...
    - live chat on my [blog](https://qudent.github.io) - works for anonymous feedback as well, if you use a VPN
    - e-mail: fi1w+qudent@outlook.com.
-   - or write me and we have a video call!
+   - or a video call! Just write
