@@ -8,4 +8,7 @@
 - 💞️ I’m looking to collaborate on ...
     - a data structure that improves upon PDF-from-LaTeX in capturing mathematical writing - mock-up and more details on request.
     - Or, maybe, whatever interests you!
-- 📫 How to reach me ... The live chat on my [blog](https://qudent.github.io); e-mail: fi1w+qudent@outlook.com.
+- 📫 How to reach me ...
+   - live chat on my [blog](https://qudent.github.io) - works for anonymous feedback as well, if you use a VPN
+   - e-mail: fi1w+qudent@outlook.com.
+   - or write me and we have a video call!
