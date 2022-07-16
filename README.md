@@ -17,4 +17,6 @@ Reviews
 -------
 If you think I can do something for you, please reach out! Some past reviews:
 
-"I consulted Duyal regarding an ML engineering problem related to supervised clustering of data, and was quickly presented with an algorithm inspired by the word2vec/skip-gram with negative sampling techniques." -- [Davide Zagami](https://davidezagami.github.io/)
+"I consulted Duyal regarding an ML engineering problem related to supervised clustering of data, and was quickly presented with an algorithm inspired by the word2vec/skip-gram with negative sampling techniques." - [Davide Zagami](https://davidezagami.github.io/)
+
+Longer-form references and a CV on request.
