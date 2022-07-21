@@ -19,4 +19,6 @@ If you think I can do something for you, please reach out! Some past reviews:
 
 "I consulted Duyal regarding an ML engineering problem related to supervised clustering of data, and was quickly presented with an algorithm inspired by the word2vec/skip-gram with negative sampling techniques." - [Davide Zagami](https://davidezagami.github.io/)
 
+"Duyal replied to an algorithm bounty for a problem I previously considered very difficult: Cohort scheduling based on participant and facilitator availability. Duyal quickly came up with a rephrasing of the problem as an integer linear programming problem, leading to a practical solution using an efficient solver - besides proving NP-completeness of that rephrasing, showing that such a solver was necessary."
+
 Longer-form references and a CV on request.
