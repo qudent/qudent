@@ -16,9 +16,9 @@
    - e-mail: fi1w+qudent@outlook.com.
    - or a video call! Just write
 
-Reviews
+Hire me/Reviews
 -------
-**If you think I can do something for you, please reach out!** Some past reviews:
+**If you think I can do something for you, please reach out!** Some past reviews of things I did:
 
 ### Engineering
 "I consulted Duyal regarding an ML engineering problem related to supervised clustering of data, and was quickly presented with an algorithm inspired by the word2vec/skip-gram with negative sampling techniques." - [Davide Zagami](https://davidezagami.github.io/)
