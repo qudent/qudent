@@ -1,13 +1,15 @@
-- 👋 Hi, I’m @qudent - [blog](https://qudent.github.io), but an organized overview of my writing is in this file.
-- 👀 I’m interested in ...
-   - in progress: [Quantifying progress in neuroscience](https://qudent.github.io/posts/2022/06/intro-neuroscience-progress-studies/) - with [Kevin Kermani Nejad](https://bristolcnu.github.io/people/RPC_kevin_nejad/index.html), ETA 09/22
-   - in alpha: [a new variant of the adversary bound - quantum query algorithm duality](https://github.com/qudent/RhoPaths), ETA 12/22
-   - maybe in progress: applications of that duality - with [Alexander Belov](http://home.lu.lv/~belovs/), ETA???
-   - not in progress: [formalizing implicit containment of computations](https://qudent.github.io/posts/2022/04/implicit-computations/)
+- 👋 Hi, I’m Duyal - [blog](https://qudent.github.io), but an organized overview of my writing is in this file.
+- 👀 My work ...
+   - [A general framework for states of knowledge](https://qudent.github.io/posts/2022/08/convex-knowledge.html), looking for applications
+   - [a new variant of the adversary bound - quantum query algorithm duality](https://github.com/qudent/RhoPaths)
+   - Applications of that duality - with [Alexander Belov](http://home.lu.lv/~belovs/), upcoming
+   - not in progress:
+      - [formalizing implicit containment of computations](https://qudent.github.io/posts/2022/04/implicit-computations/)
+      - [Quantifying progress in neuroscience](https://qudent.github.io/posts/2022/06/intro-neuroscience-progress-studies/) - with [Kevin Kermani Nejad](https://bristolcnu.github.io/people/RPC_kevin_nejad/index.html)
+
    - Misc:
       - [Suboptimality in brains](https://qudent.github.io/posts/2022/06/neuro-stochasticity/)
 - 🌱 I’m currently learning ...
-    - Reinforcement learning - with [Jay Bailey](https://au.linkedin.com/in/jay-bailey-cs)
 - 💞️ I’m looking to collaborate on ...
     - a data structure that improves upon PDF-from-LaTeX in capturing mathematical writing - mock-up and more details on request.
     - Or, maybe, whatever interests you!
