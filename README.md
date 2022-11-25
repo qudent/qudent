@@ -35,3 +35,5 @@ Hire me/Reviews
 "Duyal gave excellent feedback on one of our scripts. We ended up changing a few things thanks to his insights." - [Rational Animations](https://www.youtube.com/RationalAnimations)
 
 **Longer-form references and a CV on request.**
+
+(Duyal Yolcu)
