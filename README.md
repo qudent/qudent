@@ -1,4 +1,5 @@
 - 👋 Hi, I’m Duyal - [blog](https://qudent.github.io), but an organized overview of my writing is in this file.
+- **[Slides](https://qudent.github.io/files/seminar_iqc+quics_feb_20_2024.pdf)** of the IQC+QuICS seminar talk of February 20, 2024
 - 👀 My work ...
    - **A new variant of the quantum adversary bound - query algorithm duality**
       - [The Adversary Bound Revisited: From Optimal Query Algorithms to Optimal Control](https://arxiv.org/abs/2211.16293). This contains a new universal algorithm witnessing tightness of the quantum adversary bound that works by "guessing" a convenient initial state and tracking permissible evolutions of reduced density operators in the style of [Barnum-Saks-Szegedy](https://ieeexplore.ieee.org/document/1214419). It generalizes the duality from query algorithms to a certain quantum time-optimal control problem. This approach has certain other advantages compared to the old one based on phase detection as well, see the article.
